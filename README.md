@@ -92,10 +92,13 @@ https://github.com/user-attachments/assets/d040fc63-a047-4cb4-9289-5122e659ce55
     - 정렬
         - 퀵정렬
         - 정렬 알고리즘 응용
-    
+        
+        <img src="./image/da002.png" width="600">
+
     - 동적 계획법
 
 ## 8일차
 - 자료구조/알고리즘
-    - 검색
+    - 검색 : [주피터노트북](./day08/da01_search.ipynb)
+        - 검색 구현 : [정렬검색](./day08/pr01_sortSearch.py), [편의점재고조사](./day08/pr02_conStoreStock.py)
     - 코딩테스트
